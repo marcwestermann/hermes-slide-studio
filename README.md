@@ -19,8 +19,8 @@ The backend uses POSIX `fcntl` locking: Linux and macOS are intended targets;
 native Windows is not supported.
 
 1. Open Desktop's **Capabilities**, then **Plugins**, then **Install from Git**.
-2. Paste the Git repository URL for the reviewed published snapshot. This staging
-   snapshot has no public repository URL yet; do not substitute an unrelated repo.
+2. Paste `https://github.com/marcwestermann/hermes-slide-studio`.
+   Review the resolved commit before approving installation.
 3. Inspect the commit and permissions. The package should be detected as
    **Agent + Desktop**. Keep both targets checked and select the intended Agent
    profile/connection. The Agent half supplies persistence and inference; the
