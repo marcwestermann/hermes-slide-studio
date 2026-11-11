@@ -1,0 +1,21 @@
+{
+  "name": "hermes-slide-studio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "esbuild dev/entry.js --bundle --alias:@hermes/plugin-sdk=./dev/sdk.js --outfile=dev/public/app.js",
+    "test": "playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "esbuild": "^0.28.2",
+    "prettier": "^3.9.10",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  }
+}

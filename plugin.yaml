@@ -1,0 +1,4 @@
+name: slide-studio
+version: "0.1.0"
+description: "Structured slide editor with selection-scoped Hermes proposals and PDF printing"
+author: "Marc Westermann"

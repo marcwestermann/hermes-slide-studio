@@ -1,0 +1,42 @@
+{
+  "id": "sample",
+  "revision": 0,
+  "theme": "ink",
+  "slides": [
+    {
+      "id": "s1",
+      "layout": "hero",
+      "kicker": "FIELD NOTES / 01",
+      "headline": "Make room for better ideas.",
+      "body": "A sample deck about focused creative work. Edit any text, then invite Hermes into the details."
+    },
+    {
+      "id": "s2",
+      "layout": "split",
+      "kicker": "THE CHALLENGE",
+      "headline": "Attention is a finite resource.",
+      "body": "Fewer inputs. Clearer priorities. More space to think.\nDesign the conditions before you demand the outcome."
+    },
+    {
+      "id": "s3",
+      "layout": "statement",
+      "kicker": "A PRINCIPLE",
+      "headline": "Clarity is a creative advantage.",
+      "body": "Say one thing well."
+    },
+    {
+      "id": "s4",
+      "layout": "split",
+      "kicker": "THE PRACTICE",
+      "headline": "Start small. Stay deliberate.",
+      "body": "Choose one question.\nMake a rough version.\nShare it early.\nRefine what matters."
+    },
+    {
+      "id": "s5",
+      "layout": "hero",
+      "kicker": "NEXT CHAPTER",
+      "headline": "Build something worth sharing.",
+      "body": "Create a little space today. See what grows."
+    }
+  ]
+}
